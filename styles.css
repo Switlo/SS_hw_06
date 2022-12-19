@@ -1,0 +1,17 @@
+
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#clock {    
+    display:block;
+    background-color: #121212;
+    color: #fffb28;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    max-width: 400px;
+}
